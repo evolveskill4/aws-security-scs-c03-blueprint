@@ -21,6 +21,11 @@ Complete architecture blueprint, incident response playbooks, and hands-on secur
 
 ---
 
+## 📑 Quick Reference & CLI Runbook
+Practical command-line references for AWS cloud security administration:
+- 🚀 **[AWS SCS-C03 Essential Security Cheatsheet](./aws-scs-c03-cli-cheatsheet.md)** — Ready-to-use AWS CLI commands for IAM hardening, S3 guardrails, GuardDuty findings, and KMS key management.
+---
+
 ## 🛠️ Practical Hands-on Security Labs
 
 - [ ] **Lab 1: Automated Threat Remediation** — EventBridge rule trigger on GuardDuty alerts to quarantine compromised EC2 instances via Lambda.
